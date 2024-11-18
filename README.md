@@ -1,4 +1,4 @@
-# esp32_objecgt_follower
+# esp32_object_follower
 
 
 - Components required- esp32, ultrasonics sensor, 4 motors, motor driver, battery, chasis(body of the bot).
